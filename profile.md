@@ -29,3 +29,13 @@ After graduation, I want to work in a technology role where I can apply my techn
 - Technical skills I want to improve: Python, Java, JavaScript, Database design
 - Technologies I want to learn: Django, REST APIs, cloud deployment
 - Dream Job Position: Software or data role in technology (still exploring the exact position)
+
+## Semester Goals
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+## Portfolio Projects
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
